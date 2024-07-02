@@ -20,12 +20,12 @@
 
 1. **Clone the repository**
 
-   ```sh
    git clone https://github.com/your-username/monexp.git
    cd monexp
+
 2. ***Install dependencies**
 
-flutter pub get
+    flutter pub get
 
 3. ***Run the app**
 
